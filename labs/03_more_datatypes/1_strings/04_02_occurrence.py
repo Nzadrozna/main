@@ -7,3 +7,7 @@ Letter input:
 Result: 4
 
 '''
+print("how many times does the letter appear in your sentence")
+prompt = input("Please enter a sentence")
+letter = input("please enter a random letter.")
+print(prompt.count(letter))

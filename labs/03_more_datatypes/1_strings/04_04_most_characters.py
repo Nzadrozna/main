@@ -2,3 +2,16 @@
 Write a script that takes three strings from the user and prints the one with the most characters.
 
 '''
+print("PLease think about three words and write each word down in the correct areas, Thank you")
+s1 = input("write one word please.")
+s2 = input("Write one more word please.")
+s3 = input("write your last word please.")
+# count s1,s2,s3
+#pick biggest charrcher of 3 print
+l1 = len(s1)
+l2 = len(s2)
+l3 = len(s3)
+
+
+# print the ons with the most characters.
+# print(output).count????

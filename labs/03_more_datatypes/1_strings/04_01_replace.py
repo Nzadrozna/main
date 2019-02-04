@@ -13,6 +13,6 @@ sentence = input("please enter a sentence")
 # get user input (symbol)
 symbol = input("please enter a symbol")
 # get first letter of sentence
-first = sentence[1]
-# replace the first letter of sentence with symbols
+first = sentence[0]
+# replace the first letter of sentence with symbols need help with this part!!!!!!
 print(sentence.replace(first, symbol))

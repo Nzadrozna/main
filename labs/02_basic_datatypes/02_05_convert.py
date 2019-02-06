@@ -10,3 +10,21 @@ Demonstrate how to:
     Take note of what information is lost when some conversions take place.
 
 '''
+
+a =1
+a = float(a)
+print(a)
+
+b =2.0
+b = int(b)
+print(b)
+
+c = b/a
+print(c)
+
+d = input("please pick any number")
+e = input("please pick any number")
+d=int(d)
+e=int(e)
+f = d * e
+print(f)

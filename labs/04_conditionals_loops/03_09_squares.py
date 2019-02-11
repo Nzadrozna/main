@@ -5,3 +5,9 @@ Use a for loop that demonstrates the use of the range function.
 
 '''
 
+def printValues():
+    l = list()
+    for i in range(1,50):
+        l.append(i**2)
+    print(l)
+printValues()

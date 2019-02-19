@@ -3,7 +3,7 @@
 Write a script that takes in a number in days from the user between 1 and 1,000,000,000 and convert it to seconds.
 
 NOTE: We will use the input() funtion to collect users input. An example is demonstrated below.
-
+w
 '''
 
 # the input of the user will be saved in the variable days. (sentence)

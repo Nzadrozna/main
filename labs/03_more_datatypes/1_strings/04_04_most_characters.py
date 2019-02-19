@@ -1,6 +1,6 @@
 '''
 Write a script that takes three strings from the user and prints the one with the most characters.
-
+w
 '''
 print("PLease think about three words and write each word down in the correct areas, Thank you")
 s1 = input("write one word please.")

@@ -5,7 +5,7 @@ Find the index of first occurrence of the letter in the string. For example:
 String input: hello world
 Letter input:
 Result: 4
-
+w
 '''
 print("how many times does the letter appear in your sentence")
 prompt = input("Please enter a sentence")

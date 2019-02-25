@@ -11,6 +11,26 @@ s3 = input("write your last word please.")
 l1 = len(s1)
 l2 = len(s2)
 l3 = len(s3)
+print(l1)
+print(l2)
+print(l3)
+
+if l1 > l2:
+    if l1 > l3:
+
+        print(s1)
+
+elif l3 > l2:
+    print(s3)
+
+else:
+    if l2 > l3:
+         print(s2)
+
+    if l3 > l1:
+        print(s3)
+
+
 
 
 # print the ons with the most characters.

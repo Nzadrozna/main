@@ -4,13 +4,13 @@ w
 '''
  #DONT UNDERSTAND WHY IT WONT WORK
 
-sentence = input("Enter ur string")
+sentence = input("Enter your string")
 count = 0
 vowels = set("aeiou")
 for letter in sentence:
     if letter in vowels:
         count += 1
-print 'Number of vowels:', count
+print('Number of vowels:', count)
 
 
 

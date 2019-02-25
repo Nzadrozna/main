@@ -15,8 +15,10 @@
 
 '''
 
-print("hello")
-print("hi")
+print("hello world")
+print("hellojgkh;k")
+
+
 
 
 days = 365
